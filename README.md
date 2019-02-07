@@ -1,2 +1,3 @@
 # hello-world
-testing this out
+Learning to use Git
+
